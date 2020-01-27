@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#reproductibility">Reproductibility</a> •
-  <a href="#websites-exercices">Websites Exercises</a> •
+  <a href="#websites-exercises">Websites Exercises</a> •
   <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
@@ -21,7 +21,7 @@
 
 This repository was created in order to store and share all my experiences amoung Datascience exercises that we can found in the web.
 
-All this exercises have been solved by myself. You can freely check the code or the HTML recap in each model in order to see how I've proceed.
+All this exercises have been solved by myself. You can freely check the code or the **HTML recap** in each model in order to see how I've proceed.
 
 ## Reproductibility
 
@@ -41,18 +41,43 @@ or
 * [Python 3.(7)](https://www.python.org/) : The main language used.
 * [Jupyter Notebook](https://jupyter.org/) : A really efficient and usable IDE.
 
+##### Python Libraries :
+
+* [Sklearn](https://scikit-learn.org/stable/)
+* [Matplotlib](https://matplotlib.org/index.html)
+* [Pandas](https://pandas.pydata.org/)
+* [Numpy](https://numpy.org/)
+
 ## Websites-exercises
 
+#### Models seen by Websites
 
 |    Website                 |      Models         |
 | -------------------------- | :----------------:  |
 | OpenClassRoom              | Linear Regression, ... |
 
+#### List of plots used
+
+* Comparative Bar plot (OpenClassRoom - Linear Regression)
+* ScatterPlot (OpenClassRoom - Linear Regression)
+
+#### List of concepts seen
+
+* Data preprocessing
+* Data exploration
+* Supervised Learning
+* Basic statistic indicators (mean, median, quantiles, max, min, count)
+* R² score
+* Cross Validation Score
+* Outliers related both on mean and median
+* Overfitting
 
 ## Author
 
-See the LinkedIn Shield.
 [![LinkedIn CAJ][linkedin-shield]][linkedin-url-1]
+
+
+See the LinkedIn Shield.
 
 ## License
 
