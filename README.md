@@ -5,12 +5,12 @@
 
 <h4 align="center">A grouped repository of Datascience Exercises (solved by myself)</h4>
 
-[![LinkedIn CAJ][linkedin-shield]][linkedin-url-1]
+<span align="center">[![LinkedIn CAJ][linkedin-shield]][linkedin-url-1]</span>
       
 <p align="center">
   <a href="#about">About</a> •
   <a href="#reproductibility">Reproductibility</a> •
-  <a href="#websites_exercices">Websites Exercises</a> •
+  <a href="#websites exercices">Websites Exercises</a> •
   <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
