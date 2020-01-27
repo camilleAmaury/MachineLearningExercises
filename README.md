@@ -5,12 +5,12 @@
 
 <h4 align="center">A grouped repository of Datascience Exercises (solved by myself)</h4>
 
-<span align="center">[![LinkedIn CAJ][linkedin-shield]][linkedin-url-1]</span>
+<span align="center"></span>
       
 <p align="center">
   <a href="#about">About</a> •
   <a href="#reproductibility">Reproductibility</a> •
-  <a href="#websites exercices">Websites Exercises</a> •
+  <a href="#websites-exercices">Websites Exercises</a> •
   <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
@@ -41,7 +41,7 @@ or
 * [Python 3.(7)](https://www.python.org/) : The main language used.
 * [Jupyter Notebook](https://jupyter.org/) : A really efficient and usable IDE.
 
-## Websites Exercises
+## Websites-exercises
 
 
 |    Website                 |      Models         |
@@ -52,6 +52,7 @@ or
 ## Author
 
 See the LinkedIn Shield.
+[![LinkedIn CAJ][linkedin-shield]][linkedin-url-1]
 
 ## License
 
