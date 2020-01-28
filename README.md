@@ -17,6 +17,8 @@
 
 ---
 
+[![Plots][product-screenshot]]()
+
 ## About
 
 This repository was created in order to store and share all my experiences amoung Datascience exercises that we can found in the web.
@@ -47,6 +49,7 @@ or
 * [Matplotlib](https://matplotlib.org/index.html)
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 ## Websites-exercises
 
@@ -54,12 +57,18 @@ or
 
 |    Website                 |      Models         |
 | -------------------------- | :----------------:  |
-| OpenClassRoom              | Linear Regression, ... |
+| OPR - OpenClassRoom        | Linear Regression, 
+                               KNN                 |
+
+
 
 #### List of plots used
 
-* Comparative Bar plot (OpenClassRoom - Linear Regression)
-* ScatterPlot (OpenClassRoom - Linear Regression)
+* Bar plot (OPR - KNN)
+* Comparative Bar plot (OPR - Linear Regression)
+* ScatterPlot (OPR - Linear Regression)
+* LineChart (OPR - KNN)
+* HeathMap (OPR - KNN)
 
 #### List of concepts seen
 
@@ -70,6 +79,8 @@ or
 * R² score
 * Cross Validation Score
 * Outliers related both on mean and median
+* Classification
+* Hyperparameter
 * Overfitting
 
 ## Author
@@ -88,3 +99,4 @@ You should still mention me if you want to use it in the public sphere.
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url-1]: https://www.linkedin.com/in/camille-amaury-juge/
+[product-screenshot]: images/exemple1.PNG
