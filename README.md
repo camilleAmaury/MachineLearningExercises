@@ -57,7 +57,7 @@ or
 
 |    Website                 |      Models         |
 | -------------------------- | :----------------:  |
-| OPR - OpenClassRoom        | Linear Regression, KNN |
+| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression |
 
 
 
