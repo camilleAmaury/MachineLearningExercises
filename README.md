@@ -57,7 +57,7 @@ or
 
 |    Website                 |      Models         |
 | -------------------------- | :----------------:  |
-| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression |
+| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression |
 
 
 
@@ -81,6 +81,8 @@ or
 * Classification
 * Hyperparameter
 * Overfitting
+* ROC
+* Label Encoder (category)
 
 ## Author
 
