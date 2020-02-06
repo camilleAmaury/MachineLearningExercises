@@ -57,7 +57,7 @@ or
 
 |    Website                 |      Models         |
 | -------------------------- | :----------------:  |
-| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression |
+| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression, Kernel Classification (SVM), Kernel Regression (Ridge) |
 
 
 
@@ -75,13 +75,12 @@ or
 * Data exploration
 * Supervised Learning
 * Basic statistic indicators (mean, median, quantiles, max, min, count)
-* R² score
+* R² score, MSE, RMSE, AUC, ROC
 * Cross Validation Score
 * Outliers related both on mean and median
 * Classification
 * Hyperparameter
 * Overfitting
-* ROC
 * Label Encoder (category)
 
 ## Author
