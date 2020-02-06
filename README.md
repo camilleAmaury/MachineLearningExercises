@@ -82,6 +82,7 @@ or
 * Hyperparameter
 * Overfitting
 * Label Encoder (category)
+* Normalization, Min-max standardization
 
 ## Author
 
