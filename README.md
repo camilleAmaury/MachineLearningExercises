@@ -55,9 +55,9 @@ or
 
 #### Models seen by Websites
 
-|    Website                 |      Models         |
+|    Website                 |      Models         |      Other Concept         |
 | -------------------------- | :----------------:  |
-| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression, Kernel Classification (SVM), Kernel Regression (Ridge) |
+| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression, Kernel Classification (SVM), Kernel Regression (Ridge) |  PCA  |
 
 
 
@@ -83,6 +83,7 @@ or
 * Overfitting
 * Label Encoder (category)
 * Normalization, Min-max standardization
+* Covariance, Correlation
 
 ## Author
 
