@@ -55,11 +55,17 @@ or
 
 #### Models seen by Websites
 
-|    Website                 |      Models         |      Other Concept         |
+|    Website                 |      Models         |
 | -------------------------- | :----------------:  |
-| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression, Kernel Classification (SVM), Kernel Regression (Ridge) |  PCA  |
+| OPR - OpenClassRoom        | Linear Regression, KNN, Ridge Regression, Lasso Regression, Linear SVM, Logistic Regression, Kernel Classification (SVM), Kernel Regression (Ridge) |
 
 
+---
+
+
+|    Website                 |     Other Concept   |
+| -------------------------- | :----------------:  |
+| OPR - OpenClassRoom        |   PCA  |
 
 #### List of plots used
 
