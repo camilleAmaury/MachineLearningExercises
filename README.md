@@ -34,7 +34,7 @@ or
 
 * In your terminal/command line
 ```
-`git clone https://github.com/camilleAmaury/MachineLearningExercises.git
+git clone https://github.com/camilleAmaury/MachineLearningExercises.git
 ```
 
 ##### Technologies Involved :
